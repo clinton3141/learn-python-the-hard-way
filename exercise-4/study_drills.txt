@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "ex4.py", line 8, in <module>
+      average_passengers_per_car = car_pool_capacity / passenger
+NameError: name 'car_pool_capacity' is not defined
+
+Python is unable to run the code because we're trying to use a variable name (car_pool_capacity) which we have not defined
+
